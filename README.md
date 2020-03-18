@@ -1,0 +1,2 @@
+# exercises
+it just training
